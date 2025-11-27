@@ -1,3 +1,4 @@
+// O - Open/close principle
 class NoDiscount {
     apply(price) {
         return price;

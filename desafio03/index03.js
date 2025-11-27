@@ -1,3 +1,5 @@
+// GRASP
+
 class Order {
     constructor() {
         this.items = [];
